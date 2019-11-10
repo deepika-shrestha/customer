@@ -13,6 +13,26 @@ Java program where customer will press the customer number and the customer info
     * Run
 
 ### Sample output
-Welcome to the Paradise Roller
+Customer Viewer: Version 1.0
 
-Roll the dice? (y/
+Enter a customer number: 123
+
+Michael Martin
+
+1376 Hill Street
+
+Luckey, OH 43443
+
+Display another customer? (y/n): y
+
+Enter a customer number: 124
+
+Marjorie Galvan
+
+3144 Hillcrest Avenue
+
+Cambridge, MA 02141
+
+Display another customer? (y/n): n
+
+BUILD SUCCESSFUL (total time: 19 seconds)
